@@ -1,1 +1,2 @@
-Implementação de uma nova versão do https://tabnews.com.br
+#clone-tabnews
+Implementação do https://tabnews.com.br
