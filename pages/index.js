@@ -6,9 +6,4 @@ function Home() {
   );
 }
 
-function Teste() {
-  console.log("teste");
-  console.log("testee");
-}
-
 export default Home;
